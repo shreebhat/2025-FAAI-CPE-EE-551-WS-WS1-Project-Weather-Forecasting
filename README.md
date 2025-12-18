@@ -117,3 +117,26 @@ notebooks/main.ipynb
 
 
 The notebook produces feature matrix X and target vector y for downstream modeling.
+
+## Team Members
+
+- **Akram Amer** – akram.amer@stevens.edu  
+- **Shree Bhat** – shree.bhat@stevens.edu  
+
+---
+
+## Team Contributions
+
+### Akram Amer
+- Selected and validated the NOAA daily weather dataset
+- Implemented data loading, cleaning, and validation logic
+- Designed and implemented time-series feature engineering
+- Wrote unit tests using Pytest
+- Created and ran the main Jupyter notebook for data preparation
+- Authored project documentation and README
+
+### Shree Bhat
+- Implemented forecasting models and baseline approaches
+- Performed model training and evaluation
+- Created visualizations and result analysis
+- Integrated modeling results into the main workflow
