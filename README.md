@@ -1,6 +1,11 @@
 # 2025-FAAI-CPE-EE-551-WS-WS1-Project-Weather-Forecasting
 
-# Weather Forecasting Project – Data & Feature Pipeline
+# Weather Forecasting Project – Data & Feature PipelineProject Title
+
+# Student names and emails (all team members)
+Akram Amer (aamer@stevens.edu)
+Shreedhara Bhat (sbhat11@stevens.edu)
+
 
 ## Overview
 This project implements the data ingestion and feature engineering pipeline for a daily weather
