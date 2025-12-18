@@ -1,5 +1,11 @@
 import pandas as pd
 
+import sys
+from pathlib import Path
+
+PROJECT_ROOT = Path.cwd().parent
+sys.path.append(str(PROJECT_ROOT))
+
 from weather.features import build_features, stream_days
 
 
