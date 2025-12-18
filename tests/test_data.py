@@ -1,5 +1,10 @@
 import pandas as pd
 import pytest
+import sys
+from pathlib import Path
+
+PROJECT_ROOT = Path.cwd().parent
+sys.path.append(str(PROJECT_ROOT))
 
 from weather.data import WeatherStation, DataValidationError
 
